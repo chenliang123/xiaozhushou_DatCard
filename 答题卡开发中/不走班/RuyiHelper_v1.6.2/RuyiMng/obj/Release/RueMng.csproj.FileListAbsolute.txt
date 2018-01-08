@@ -1,0 +1,6 @@
+D:\如e小助手_Release\RueMng.exe
+D:\App\RuyiHelper_v1.6.2\RuyiMng\obj\Release\RueMng.csprojResolveAssemblyReference.cache
+D:\App\RuyiHelper_v1.6.2\RuyiMng\obj\Release\RueMng.exe
+D:\项目备份\小助手代码备份\答题卡开发中\如e小助手_Release\RueMng.exe
+D:\项目备份\小助手代码备份\答题卡开发中\不走班\RuyiHelper_v1.6.2\RuyiMng\obj\Release\RueMng.csprojResolveAssemblyReference.cache
+D:\项目备份\小助手代码备份\答题卡开发中\不走班\RuyiHelper_v1.6.2\RuyiMng\obj\Release\RueMng.exe

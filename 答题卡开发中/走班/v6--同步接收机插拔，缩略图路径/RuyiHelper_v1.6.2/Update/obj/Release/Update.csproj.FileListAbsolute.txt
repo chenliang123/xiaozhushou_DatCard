@@ -1,0 +1,14 @@
+D:\如e小助手_Release\RueUpdate.exe.config
+D:\如e小助手_Release\RueUpdate.exe
+D:\App\RuyiHelper_v1.6.2\Update\obj\Release\Update.csprojResolveAssemblyReference.cache
+D:\App\RuyiHelper_v1.6.2\Update\obj\Release\Update.FormUpdate.resources
+D:\App\RuyiHelper_v1.6.2\Update\obj\Release\Update.Properties.Resources.resources
+D:\App\RuyiHelper_v1.6.2\Update\obj\Release\Update.csproj.GenerateResource.Cache
+D:\App\RuyiHelper_v1.6.2\Update\obj\Release\RueUpdate.exe
+D:\项目备份\小助手代码备份\答题卡开发中\走班\如e小助手_Release\RueUpdate.exe.config
+D:\项目备份\小助手代码备份\答题卡开发中\走班\如e小助手_Release\RueUpdate.exe
+D:\项目备份\小助手代码备份\答题卡开发中\走班\v6--同步接收机插拔，缩略图路径\RuyiHelper_v1.6.2\Update\obj\Release\Update.csprojResolveAssemblyReference.cache
+D:\项目备份\小助手代码备份\答题卡开发中\走班\v6--同步接收机插拔，缩略图路径\RuyiHelper_v1.6.2\Update\obj\Release\Update.FormUpdate.resources
+D:\项目备份\小助手代码备份\答题卡开发中\走班\v6--同步接收机插拔，缩略图路径\RuyiHelper_v1.6.2\Update\obj\Release\Update.Properties.Resources.resources
+D:\项目备份\小助手代码备份\答题卡开发中\走班\v6--同步接收机插拔，缩略图路径\RuyiHelper_v1.6.2\Update\obj\Release\Update.csproj.GenerateResource.Cache
+D:\项目备份\小助手代码备份\答题卡开发中\走班\v6--同步接收机插拔，缩略图路径\RuyiHelper_v1.6.2\Update\obj\Release\RueUpdate.exe
